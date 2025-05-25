@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE test SYSTEM "test.dtd">
+<test>
+  <question id="1">
+    <wording>What does XML stand for?</wording>
+    <choices>
+      <choice correct="yes">eXtensible Markup Language</choice>
+      <choice correct="no">Extra Modern Language</choice>
+      <choice correct="no">Example Markup Language</choice>
+      <choice correct="no">Execute Markup Logic</choice>
+    </choices>
+  </question>
+  <question id="2">
+    <wording>Which element contains the options in the DTD?</wording>
+    <choices>
+      <choice correct="no">option</choice>
+      <choice correct="yes">choices</choice>
+      <choice correct="no">selection</choice>
+      <choice correct="no">answer</choice>
+    </choices>
+  </question>
+  <!-- Añade 18 preguntas más -->
+</test>

@@ -1,0 +1,7 @@
+<!ELEMENT test (question+)>
+<!ELEMENT question (wording, choices)>
+<!ATTLIST question id CDATA #REQUIRED>
+<!ELEMENT wording (#PCDATA)>
+<!ELEMENT choices (choice+)>
+<!ELEMENT choice (#PCDATA)>
+<!ATTLIST choice correct (yes|no) "no">
