@@ -1,3 +1,3 @@
 # ProyectoXML
 
-<a href="https://proyectoxmlasir.netlify.app">Proyecto XML</a>
+<a href="https://cuestionariokickboxing.netlify.app">Proyecto XML</a>
