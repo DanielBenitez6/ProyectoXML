@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE test SYSTEM "test.dtd">
+<test>
+
+  <question id="1">
+    <wording>Where was Kickboxing invented?</wording>
+    <choices>
+      <choice correct="yes">Japan</choice>
+      <choice correct="no">France</choice>
+      <choice correct="no">England</choice>
+      <choice correct="no">United States</choice>
+    </choices>
+  </question>
+
+  <question id="2">
+    <wording>Can you kick your opponent in Kickboxing?</wording>
+    <choices>
+      <choice correct="no">No</choice>
+      <choice correct="yes">Yes</choice>
+      <choice correct="no">Only with the knee</choice>
+      <choice correct="no">Only in the first round of the fight</choice>
+    </choices>
+  </question>
+  <question id="3">
+  <wording>What does KO mean in kickboxing?</wording>
+  <choices>
+    <choice correct="no">Kick Out</choice>
+    <choice correct="no">Knock On</choice>
+    <choice correct="yes">Knock Out</choice>
+    <choice correct="no">Kick Only</choice>
+  </choices>
+</question>
+
+<question id="4">
+  <wording>What is evaluated in a kickboxing match?</wording>
+  <choices>
+    <choice correct="no">The music</choice>
+    <choice correct="yes">Technique, control and effectiveness</choice>
+    <choice correct="no">Outfit</choice>
+    <choice correct="no">Personal style</choice>
+  </choices>
+</question>
+
+<question id="5">
+  <wording>Which body parts can be legally kicked?</wording>
+  <choices>
+    <choice correct="yes">Legs, torso and head</choice>
+    <choice correct="no">Lower back</choice>
+    <choice correct="no">Neck</choice>
+    <choice correct="no">Back of the head</choice>
+  </choices>
+</question>
+
+<question id="6">
+  <wording>What is the main goal of a low kick?</wording>
+  <choices>
+    <choice correct="yes">Damage the opponent’s leg</choice>
+    <choice correct="no">Throw the opponent down</choice>
+    <choice correct="no">Defend yourself</choice>
+    <choice correct="no">Distract the referee</choice>
+  </choices>
+</question>
+
+<question id="7">
+  <wording>What protection is required in amateur fights?</wording>
+  <choices>
+    <choice correct="no">Motorcycle helmet</choice>
+    <choice correct="yes">Mouthguard and shin guards</choice>
+    <choice correct="no">Elbow pads</choice>
+    <choice correct="no">Padded vest</choice>
+  </choices>
+</question>
+
+<question id="8">
+  <wording>Which technique combines hand and foot strikes?</wording>
+  <choices>
+    <choice correct="yes">Combo</choice>
+    <choice correct="no">Straight elbow</choice>
+    <choice correct="no">Knee strike</choice>
+    <choice correct="no">Sweep</choice>
+  </choices>
+</question>
+
+<question id="9">
+  <wording>Which area should be protected with a high guard?</wording>
+  <choices>
+    <choice correct="no">Thighs</choice>
+    <choice correct="no">Abdomen</choice>
+    <choice correct="yes">Head</choice>
+    <choice correct="no">Back</choice>
+  </choices>
+</question>
+
+<question id="10">
+  <wording>What kind of punch is a "jab"?</wording>
+  <choices>
+    <choice correct="yes">Straight punch with lead hand</choice>
+    <choice correct="no">Roundhouse kick</choice>
+    <choice correct="no">Spinning elbow</choice>
+    <choice correct="no">Flying knee</choice>
+  </choices>
+</question>
+
+<question id="11">
+  <wording>What is shadow boxing mainly used for?</wording>
+  <choices>
+    <choice correct="yes">Technique and speed</choice>
+    <choice correct="no">Raw power</choice>
+    <choice correct="no">Rest</choice>
+    <choice correct="no">Muscle tension</choice>
+  </choices>
+</question>
+
+<question id="12">
+  <wording>What is the purpose of pads in training?</wording>
+  <choices>
+    <choice correct="yes">Improve precision and power</choice>
+    <choice correct="no">Protect the head</choice>
+    <choice correct="no">Measure temperature</choice>
+    <choice correct="no">Wipe sweat</choice>
+  </choices>
+</question>
+
+<question id="13">
+  <wording>How long is a typical amateur round?</wording>
+  <choices>
+    <choice correct="yes">2 minutes</choice>
+    <choice correct="no">5 minutes</choice>
+    <choice correct="no">10 minutes</choice>
+    <choice correct="no">1 minute</choice>
+  </choices>
+</question>
+
+<question id="14">
+  <wording>What happens if you hit too hard in light contact competition?</wording>
+  <choices>
+    <choice correct="yes">The fighter can be disqualified</choice>
+    <choice correct="no">Wins automatically</choice>
+    <choice correct="no">Round is repeated</choice>
+    <choice correct="no">Time is deducted</choice>
+  </choices>
+</question>
+
+<question id="15">
+  <wording>What is a spinning back kick?</wording>
+  <choices>
+    <choice correct="yes">A kick with a backward spin</choice>
+    <choice correct="no">A turning punch</choice>
+    <choice correct="no">A forward jump</choice>
+    <choice correct="no">A spinning grab</choice>
+  </choices>
+</question>
+
+<question id="16">
+  <wording>What does a prolonged clinch indicate in a match?</wording>
+  <choices>
+    <choice correct="yes">Referee must separate the fighters</choice>
+    <choice correct="no">Extra point</choice>
+    <choice correct="no">Change of gloves</choice>
+    <choice correct="no">Technical draw</choice>
+  </choices>
+</question>
+
+<question id="17">
+  <wording>What does TKO stand for?</wording>
+  <choices>
+    <choice correct="yes">Technical Knock Out</choice>
+    <choice correct="no">Technique KO</choice>
+    <choice correct="no">Timeout Knock</choice>
+    <choice correct="no">Total Knock Out</choice>
+  </choices>
+</question>
+
+<question id="18">
+  <wording>What advantage does fighting at home bring?</wording>
+  <choices>
+    <choice correct="yes">More crowd support</choice>
+    <choice correct="no">Different rules</choice>
+    <choice correct="no">Special gloves</choice>
+    <choice correct="no">Automatic scoring</choice>
+  </choices>
+</question>
+
+<question id="19">
+  <wording>Which strike is thrown with the rear hand?</wording>
+  <choices>
+    <choice correct="no">Jab</choice>
+    <choice correct="yes">Cross</choice>
+    <choice correct="no">Hook</choice>
+    <choice correct="no">Uppercut</choice>
+  </choices>
+</question>
+
+<question id="20">
+  <wording>What is a good defensive strategy?</wording>
+  <choices>
+    <choice correct="yes">Dodge and counterattack</choice>
+    <choice correct="no">Shouting loudly</choice>
+    <choice correct="no">Running in circles</choice>
+    <choice correct="no">Requesting time</choice>
+  </choices>
+</question>
+
+</test>
